@@ -1,1 +1,3 @@
-# social-media-dashboard-frontendmentor
+# Social Media Dashboard
+<br>
+Challenge de Frontend Mentor
